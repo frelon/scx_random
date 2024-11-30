@@ -1,0 +1,9 @@
+scx_random
+scx_random.bpf.skel.h
+scx_random.bpf.subskel.h
+scx_random.bpf.l1o
+scx_random.bpf.l2o
+scx_random.bpf.l3o
+vmlinux.h
+*.o
+
